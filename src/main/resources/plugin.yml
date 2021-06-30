@@ -1,0 +1,7 @@
+name: CrashPlugin
+version: ${project.version}
+main: koutachan.crashplugin.CrashPlugin
+api-version: 1.16
+commands:
+  crash:
+    permission: Crash.Op
